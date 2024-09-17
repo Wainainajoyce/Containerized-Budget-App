@@ -4,5 +4,27 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
-  }
+  },
+  "name": "containerized-budget-app",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wainainajoyce/Containerized-Budget-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wainainajoyce/Containerized-Budget-App/issues"
+  },
+  "homepage": "https://github.com/Wainainajoyce/Containerized-Budget-App#readme"
 }
